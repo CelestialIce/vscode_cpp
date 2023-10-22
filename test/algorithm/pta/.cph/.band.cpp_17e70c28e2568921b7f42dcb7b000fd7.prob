@@ -1,0 +1,1 @@
+{"name":"Local: band","url":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\band.cpp","tests":[{"id":1696469321931,"input":"8 2 1 3 9 4 11 13 15","output":"1 3 2 9 11 4 13 15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\band.cpp","group":"local","local":true}

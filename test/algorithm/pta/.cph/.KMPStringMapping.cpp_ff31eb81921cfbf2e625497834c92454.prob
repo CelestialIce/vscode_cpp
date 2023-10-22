@@ -1,0 +1,1 @@
+{"name":"Local: KMPStringMapping","url":"d:\\Microsoft_VS_Code\\vscode_Cpp\\test\\algorithm\\pta\\KMPStringMapping.cpp","tests":[{"id":1697790061686,"input":"ABABABC\nABA","output":"1\n3\n0 0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Microsoft_VS_Code\\vscode_Cpp\\test\\algorithm\\pta\\KMPStringMapping.cpp","group":"local","local":true}

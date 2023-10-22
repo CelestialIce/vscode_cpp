@@ -1,0 +1,1 @@
+{"name":"Local: lianbiaojiaoji","url":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\lianbiaojiaoji.cpp","tests":[{"id":1695373895974,"input":"1 2 5 -1\n2 4 5 8 10 -1","output":"2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\lianbiaojiaoji.cpp","group":"local","local":true}

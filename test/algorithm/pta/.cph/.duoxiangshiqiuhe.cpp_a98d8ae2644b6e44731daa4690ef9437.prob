@@ -1,0 +1,1 @@
+{"name":"Local: duoxiangshiqiuhe","url":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\duoxiangshiqiuhe.cpp","tests":[{"id":1695373435735,"input":"3 1.0\n1 2 3 4","output":"10.000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Microsoft VS Code\\vscode_Cpp\\test\\algorithm\\pta\\duoxiangshiqiuhe.cpp","group":"local","local":true}
