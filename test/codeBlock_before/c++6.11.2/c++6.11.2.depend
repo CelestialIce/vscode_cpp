@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678711155 source:d:\download\code.blocks\my product\c++6.11.2\main.cpp
+	<iostream>
+	<array>
+

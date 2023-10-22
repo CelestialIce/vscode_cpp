@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680869620 source:d:\download\code.blocks\my product\密码安全问题\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+

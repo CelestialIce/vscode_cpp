@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680699154 source:d:\download\code.blocks\my product\统计班级成绩\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+

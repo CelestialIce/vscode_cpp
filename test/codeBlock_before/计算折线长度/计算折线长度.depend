@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679842154 source:d:\download\code.blocks\my product\计算折线长度\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

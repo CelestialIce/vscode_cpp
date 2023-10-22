@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680590585 source:d:\download\code.blocks\my product\数列的绝对值排序2\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<vector>
+

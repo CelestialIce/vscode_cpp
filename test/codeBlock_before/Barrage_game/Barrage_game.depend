@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679403420 source:d:\download\code.blocks\my product\barrage_game\main.cpp
+	<iostream>
+	<cmath>
+

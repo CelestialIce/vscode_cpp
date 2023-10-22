@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679908974 source:d:\download\code.blocks\my product\十六进制加法\main.cpp
+	<iostream>
+	<iomanip>
+

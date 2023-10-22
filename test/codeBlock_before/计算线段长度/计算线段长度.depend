@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679145646 source:d:\download\code.blocks\my product\计算线段长度\main.cpp
+	<iostream>
+	<cmath>
+

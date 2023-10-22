@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680592660 source:d:\download\code.blocks\my product\统计字符个数初步\main.cpp
+	<iostream>
+	<string>
+

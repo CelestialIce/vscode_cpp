@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679201164 source:d:\download\code.blocks\my product\construct and sum the series\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

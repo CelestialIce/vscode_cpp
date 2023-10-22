@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666344421 source:d:\download\code.blocks\my product\4.3praise2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
